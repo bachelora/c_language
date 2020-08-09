@@ -1,0 +1,411 @@
+[
+  {
+    "title" : "第一章 数据结构入门",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/ds\/",
+        "title" : "1.数据结构与算法入门"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/87",
+        "title" : "2.数学基础"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/88",
+        "title" : "3.数据结构与算法"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/89",
+        "title" : "4.算法基础"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/90",
+        "title" : "5.数据结构基础"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/91",
+        "title" : "6.理解复杂度概念"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/92",
+        "title" : "7.复杂度的度量方法"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/93",
+        "title" : "8.内存"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/94",
+        "title" : "9.编程预备"
+      }
+    ]
+  },
+  {
+    "title" : "第二章 链表",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/95",
+        "title" : "1.顺序存储和链式存储"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/96",
+        "title" : "2.单链表一"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/97",
+        "title" : "3.单链表二"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/98",
+        "title" : "4.双向链表一"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/99",
+        "title" : "5.双向链表二"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/100",
+        "title" : "6.循环链表一"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/101",
+        "title" : "7.循环链表二"
+      }
+    ]
+  },
+  {
+    "title" : "第三章 栈",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/102",
+        "title" : "1.先进后出的数据结构-栈 一"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/103",
+        "title" : "2.数据结构-栈 二"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/104",
+        "title" : "3.栈数组与栈链表代码实现"
+      }
+    ]
+  },
+  {
+    "title" : "第四章 队列",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/105",
+        "title" : "1.顺序队列一"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/106",
+        "title" : "2.顺序队列二"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/107",
+        "title" : "3.循环队列一"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/108",
+        "title" : "4.循环队列二"
+      }
+    ]
+  },
+  {
+    "title" : "第五章 从C语言到C++",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/109",
+        "title" : "1.C++的区别"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/110",
+        "title" : "2.C++STL教程入门"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/111",
+        "title" : "3.C++STL之Vector容器"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/112",
+        "title" : "4.C++STL之List容器"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/113",
+        "title" : "5.C++STL之stack栈容器"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/114",
+        "title" : "6.C++STL之Queue容器"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/115",
+        "title" : "7.C++STL之Priority_queue(优先队列)"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/116",
+        "title" : "8.C++STL之Set容器"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/117",
+        "title" : "9.set theory（集合论）"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/118",
+        "title" : "10.C++STL之Map容器"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/119",
+        "title" : "11.C++STL之Pair类模板"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/120",
+        "title" : "12.C++STL之multiset与multimap容器"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/121",
+        "title" : "13.C\/C++如何设计函数多返回值？"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/122",
+        "title" : "14.C\/C++如何加速输入输出效率（上）"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/123",
+        "title" : "15.C\/C++如何加速输入输出效率（下）"
+      }
+    ]
+  },
+  {
+    "title" : "第六章 串，数组，矩阵，广义表",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/124",
+        "title" : "1.C++字符串常用操作（一）"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/125",
+        "title" : "2.C++字符串常用操作（二）"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/126",
+        "title" : "3.字符串的KMP算法"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/127",
+        "title" : "4.C++中string字符串类型介绍"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/128",
+        "title" : "5.再谈数组"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/129",
+        "title" : "6.线性代数——矩阵基本概念"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/130",
+        "title" : "7.矩阵的加减法"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/131",
+        "title" : "8.矩阵的扩展算法"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/132",
+        "title" : "9.广义表(一)"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/133",
+        "title" : "10.广义表(二)"
+      }
+    ]
+  },
+  {
+    "title" : "第七章 树",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/134",
+        "title" : "1.树的概念"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/135",
+        "title" : "2.二叉树"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/136",
+        "title" : "3.二叉树的存储"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/137",
+        "title" : "4.树的遍历之先序遍历二叉树"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/138",
+        "title" : "5.树的遍历之中序遍历二叉树"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/139",
+        "title" : "6.树的遍历之后序遍历二叉树"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/140",
+        "title" : "7.DFS（深度优先搜索）"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/141",
+        "title" : "8.模拟-树的思维"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/142",
+        "title" : "9.树与森林"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/143",
+        "title" : "10.特殊的树：哈夫曼树"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/144",
+        "title" : "11.特殊的树：哈夫曼树2"
+      }
+    ]
+  },
+  {
+    "title" : "第八章 图",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/145",
+        "title" : "1.图的存储-邻接矩阵"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/146",
+        "title" : "2.图的存储-邻接表"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/147",
+        "title" : "3.图的存储:链式向前星"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/148",
+        "title" : "4.图的遍历DFS深搜优先搜索"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/149",
+        "title" : "5.图的遍历BFS广度优先搜索"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/150",
+        "title" : "6.最小生成树-普利姆(Prim)算法"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/151",
+        "title" : "7.最小生成树-克鲁斯卡尔(Kruskal)算法"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/152",
+        "title" : "8.最短路径-迪杰斯特拉(Dijkstra)算法"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/153",
+        "title" : "9.最短路径-弗洛伊德(Floyd)算法"
+      }
+    ]
+  },
+  {
+    "title" : "第九章 算法—查找",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/154",
+        "title" : "1.线性（顺序）查找介绍与实现"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/155",
+        "title" : "2.折半查找（二分查找）介绍与实现"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/156",
+        "title" : "3.分块查找算法介绍与实现"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/157",
+        "title" : "4.动态查找-二叉排序树介绍与实现"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/158",
+        "title" : "5.动态查找-平衡二叉树"
+      }
+    ]
+  },
+  {
+    "title" : "第十章 算法—排序",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/159",
+        "title" : "1.冒泡排序"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/160",
+        "title" : "2.简单选择排序"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/161",
+        "title" : "3.直接插入排序"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/162",
+        "title" : "4.希尔排序"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/163",
+        "title" : "5.堆排序"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/164",
+        "title" : "6.归并排序"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/165",
+        "title" : "7.快速排序"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/166",
+        "title" : "8.排序算法总结"
+      }
+    ]
+  },
+  {
+    "title" : "第十一章 算法&竞赛，思维培养",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/167",
+        "title" : "1.哈希算法"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/168",
+        "title" : "2.动态规划思想"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/169",
+        "title" : "3.贪心算法"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/170",
+        "title" : "4.博弈入门"
+      }
+    ]
+  },
+  {
+    "title" : "第十二章 后记",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/171",
+        "title" : "1.后记"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/172",
+        "title" : "2.参考及相关链接"
+      }
+    ]
+  }
+]
+
