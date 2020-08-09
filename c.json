@@ -1,0 +1,287 @@
+[
+  {
+    "title" : "第一章 C语言的过去与未来",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/c\/",
+        "title" : "1.C语言入门教程"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/2",
+        "title" : "2.C语言的历史"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/3",
+        "title" : "3.C语言的现在"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/4",
+        "title" : "4.C语言的未来"
+      }
+    ]
+  },
+  {
+    "title" : "第二章 C语言快速入门",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/5",
+        "title" : "1.C语言第一个简单实例"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/6",
+        "title" : "2.实例说明"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/7",
+        "title" : "3.本教程的相关说明"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/8",
+        "title" : "4.本章总结与作业"
+      }
+    ]
+  },
+  {
+    "title" : "第三章 C语言的数据类型",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/9",
+        "title" : "1.变量与常量数据"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/10",
+        "title" : "2.数据类型和关键字"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/11",
+        "title" : "3.本章总结与作业"
+      }
+    ]
+  },
+  {
+    "title" : "第四章 C语言中的基本输入输出",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/12",
+        "title" : "1.字符输出函数putchar"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/13",
+        "title" : "2.字符输入函数getchar"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/14",
+        "title" : "3.格式化输出函数printf"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/15",
+        "title" : "4.格式化输入函数scanf"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/16",
+        "title" : "5.本章总结与作业"
+      }
+    ]
+  },
+  {
+    "title" : "第五章 运算符和表达式",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/17",
+        "title" : "1.基本运算符"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/18",
+        "title" : "2.sizeof运算符"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/356",
+        "title" : "3.三目运算符"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/19",
+        "title" : "4.表达式和语句"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/20",
+        "title" : "5.本章总结与作业"
+      }
+    ]
+  },
+  {
+    "title" : "第六章 C语句和程序流",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/21",
+        "title" : "1.表达式和语句"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/22",
+        "title" : "2.选择结构"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/23",
+        "title" : "3.循环结构"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/24",
+        "title" : "4.本章总结与作业"
+      }
+    ]
+  },
+  {
+    "title" : "第七章 函数",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/25",
+        "title" : "1.函数的定义"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/26",
+        "title" : "2.函数的调用"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/27",
+        "title" : "3.变量的存储类型"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/28",
+        "title" : "4.本章总结与作业"
+      }
+    ]
+  },
+  {
+    "title" : "第八章 数组",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/29",
+        "title" : "1.一维数组的定义和使用"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/30",
+        "title" : "2.二维数组的定义和使用"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/31",
+        "title" : "3.字符数组和字符串"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/32",
+        "title" : "4.本章总结与作业"
+      }
+    ]
+  },
+  {
+    "title" : "第九章 指针",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/33",
+        "title" : "1.地址与指针"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/34",
+        "title" : "2.指针的定义和使用"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/35",
+        "title" : "3.数组与指针"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/36",
+        "title" : "4.字符串与指针"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/37",
+        "title" : "5.本章总结与作业"
+      }
+    ]
+  },
+  {
+    "title" : "第十章 复合结构",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/38",
+        "title" : "1.结构体的定义和使用"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/39",
+        "title" : "2.结构体的高级使用"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/40",
+        "title" : "3.共用体的定义和使用"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/41",
+        "title" : "4.使用typedef定义类型"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/42",
+        "title" : "5.本章总结与作业"
+      }
+    ]
+  },
+  {
+    "title" : "第十一章 文件操作",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/408",
+        "title" : "1.C语言实现文件读写"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/409",
+        "title" : "2.打开文件fopen函数的用法"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/410",
+        "title" : "3.写文件fprintf函数的用法"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/411",
+        "title" : "4.读文件fscanf函数的用法"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/412",
+        "title" : "5.写文件fwrite函数的用法"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/413",
+        "title" : "6.读文件fread函数的用法"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/414",
+        "title" : "7.关闭文件fclose函数的用法"
+      }
+    ]
+  },
+  {
+    "title" : "第十二章 预处理",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/43",
+        "title" : "1.宏定义"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/44",
+        "title" : "2.文件包含"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/45",
+        "title" : "3.条件编译"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/46",
+        "title" : "4.其他与处理命令"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/47",
+        "title" : "5.本章总结与作业"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/48",
+        "title" : "6.结课"
+      }
+    ]
+  }
+]
+
