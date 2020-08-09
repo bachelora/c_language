@@ -1,0 +1,752 @@
+[
+  {
+    "title" : "C语言函数库",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/lib\/",
+        "title" : "1.C语言库函数大全"
+      }
+    ]
+  },
+  {
+    "title" : "<assert.h>头文件",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/432",
+        "title" : "1.C语言assert()函数: 断言一个表达式是否正确"
+      }
+    ]
+  },
+  {
+    "title" : "<ctype.h>头文件",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/433",
+        "title" : "1.C语言isascii()函数:判断字符是否为ASCII码"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/434",
+        "title" : "2.C语言isalnum()函数:判断字符是否为字母或数字"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/435",
+        "title" : "3.C语言isalpha()函数:判断字符是否为英文字母"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/436",
+        "title" : "4.C语言iscntrl()函数:判断字符是否为控制字符"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/437",
+        "title" : "5.C语言isdigit()函数:判断字符是否为十进制数字"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/438",
+        "title" : "6.C语言isgraph()函数:判断字符是否除空格外的可打印字符"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/439",
+        "title" : "7.C语言islower()函数:判断字符是否为小写英文字母"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/440",
+        "title" : "8.C语言isprint()函数:判断字符是否为可打印字符（含空格）"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/441",
+        "title" : "9.C语言ispunct()函数: 判断字符是否为标点符号"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/442",
+        "title" : "10.C语言isspace()函数:判断字符是否为空白字符"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/443",
+        "title" : "11.C语言isxdigit()函数:判断字符是否为十六进制数字"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/444",
+        "title" : "12.C语言isupper()函数:判断字符是否为大写英文字母"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/445",
+        "title" : "13.C语言toascii()函数:把一个字符转换为ASCII"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/446",
+        "title" : "14.C语言tolower()函数:把大写字母转换为小写字母"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/447",
+        "title" : "15.C语言toupper()函数:把小写字母转换为大写字母"
+      }
+    ]
+  },
+  {
+    "title" : "<float.h>头文件",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/448",
+        "title" : "1.C语言_clear87()函数:获取并清除状态字"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/449",
+        "title" : "2.C语言_control87()函数:获取和设置浮点控制字"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/450",
+        "title" : "3.C语言_status87()函数:获取浮点处理器状态值"
+      }
+    ]
+  },
+  {
+    "title" : "<io.h>头文件",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/453",
+        "title" : "1.C语言access()函数:确定文件的访问权限"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/451",
+        "title" : "2.C语言chmod()函数:用于改变文件访问方式"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/452",
+        "title" : "3.C语言close()函数:用于关闭由open()函数所打开的文件"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/454",
+        "title" : "4.C语言open()函数:打开一个文件"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/455",
+        "title" : "5.C语言creat()函数:创建指定文件名的文件"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/456",
+        "title" : "6.C语言eof()函数:检查文件是否结束"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/457",
+        "title" : "7.C语言fdopen()函数:将流与文件句柄连接"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/458",
+        "title" : "8.C语言filelength()函数:统计由open()函数所打开的文件的字节数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/459",
+        "title" : "9.C语言isatty()函数:检查给定的设备类型"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/460",
+        "title" : "10.C语言read()函数:用于读取打开文件的内容"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/461",
+        "title" : "11.C语言lseek()函数:用于移动打开文件的指针"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/462",
+        "title" : "12.C语言tell()函数:获取打开文件的指针位置"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/463",
+        "title" : "13.C语言write()函数:写文件"
+      }
+    ]
+  },
+  {
+    "title" : "<math.h>头文件",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/464",
+        "title" : "1.C语言abs()函数:求整数的绝对值"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/465",
+        "title" : "2.C语言acos()函数:求余弦值为 x 的弧度数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/466",
+        "title" : "3.C语言asin()函数:求正弦值为 x 的弧度数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/467",
+        "title" : "4.C语言atan()函数:求正切值为 x 的弧度数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/468",
+        "title" : "5.C语言ceil()函数:向上舍入"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/469",
+        "title" : "6.C语言exp()函数:求底数e的x次方"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/470",
+        "title" : "7.C语言fabs()函数:求浮点数的绝对值"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/471",
+        "title" : "8.C语言floor()函数:向下舍入"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/472",
+        "title" : "9.C语言labs()函数:取长整型绝对值"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/473",
+        "title" : "10.C语言pow()函数:指数函数(x的y次方)"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/474",
+        "title" : "11.C语言sqrt()函数:计算一个非负实数的平方根"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/475",
+        "title" : "12.C语言sin()函数:正弦函数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/476",
+        "title" : "13.C语言cos()函数:余弦函数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/477",
+        "title" : "14.C语言tan()函数:正切函数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/478",
+        "title" : "15.C语言log10()函数:求指定数值的以10为底数的对数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/479",
+        "title" : "16.C语言log()函数:求以自然数为底数的对数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/480",
+        "title" : "17.C语言modf()函数:求双精度数的小数部分"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/481",
+        "title" : "18.C语言fmod()函数:计算x对y的模, 即x\/y的余数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/482",
+        "title" : "19.C语言frexp()函数:把一个双精度数分解为尾数和指数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/483",
+        "title" : "20.C语言hypot()函数:计算直角三角形的斜边长度"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/484",
+        "title" : "21.C语言ldexp()函数:计算指定的2^exp倍数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/485",
+        "title" : "22.C语言atan2()函数:计算Y\/X的反正切值"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/486",
+        "title" : "23.C语言cosh()函数:计算双曲余弦值"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/487",
+        "title" : "24.C语言sinh()函数:求出指定值的双曲正弦值"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/488",
+        "title" : "25.C语言tanh()函数:计算双曲正切值"
+      }
+    ]
+  },
+  {
+    "title" : "<mem.h>头文件",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/489",
+        "title" : "1.C语言memccpy()函数:从sour中拷贝m个字节到目标des"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/490",
+        "title" : "2.C语言memchr()函数:对字符c搜索s区域的前m个字节"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/491",
+        "title" : "3.C语言memcmp()函数:比较m字节长的两个字符串s1和s2"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/492",
+        "title" : "4.C语言memcpy()函数:从suc中拷贝m个字节到目标des"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/493",
+        "title" : "5.C语言memicmp()函数:比较s1和s2的前m个字节"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/494",
+        "title" : "6.C语言memmove()函数:从源区域移动m个字节到目标区域"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/495",
+        "title" : "7.C语言memset()函数:置s中的所有字节为c"
+      }
+    ]
+  },
+  {
+    "title" : "<setjmp.h>头文件",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/496",
+        "title" : "1.C语言setjmp()函数:非局部转移进程"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/497",
+        "title" : "2.C语言longjump()函数:执行非局部转移进程"
+      }
+    ]
+  },
+  {
+    "title" : "<stdio.h>头文件",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/498",
+        "title" : "1.C语言clearerr()函数:复位错误标志"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/499",
+        "title" : "2.C语言ferror()函数:检测流上的错误"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/500",
+        "title" : "3.C语言fclose()函数:关闭流 stream"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/501",
+        "title" : "4.C语言feof()函数:检测流上的文件结束符"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/502",
+        "title" : "5.C语言fflush()函数:清除一个流"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/503",
+        "title" : "6.C语言fgetc()函数:从流中读取字符"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/504",
+        "title" : "7.C语言fgetchar()函数:从标准输入流中读取字符"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/505",
+        "title" : "8.C语言fgetpos()函数:取得当前文件指针(句柄)"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/506",
+        "title" : "9.C语言fgets()函数:从流中读取一字符串"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/507",
+        "title" : "10.C语言fopen()函数:打开一个流"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/508",
+        "title" : "11.C语言fprintf()函数:格式化输出到一个流中"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/509",
+        "title" : "12.C语言fputchar()函数:送一个字符到标准输出流"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/510",
+        "title" : "13.C语言fputs()函数:送一个字符到一个流中"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/511",
+        "title" : "14.C语言fread()函数:从一个流中读数据"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/512",
+        "title" : "15.C语言freopen()函数:替换一个流"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/513",
+        "title" : "16.C语言fscanf()函数:从一个流中执行格式化输入"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/514",
+        "title" : "17.C语言fseek()函数:重定位流上的文件指针"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/515",
+        "title" : "18.C语言fsetpos()函数:将文件指针定位在指定的位置上"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/516",
+        "title" : "19.C语言ftell()函数:偏移量是从文件开始算起的字节数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/517",
+        "title" : "20.C语言fwrite()函数:写内容到流中"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/518",
+        "title" : "21.C语言getc()函数:从指定的流 stream 获取下一个字符"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/519",
+        "title" : "22.C语言getchar()函数:从stdin流中读字符 "
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/520",
+        "title" : "23.C语言getche()函数:从控制台取字符"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/521",
+        "title" : "24.C语言gets()函数:从输入流中取一字符串"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/522",
+        "title" : "25.C语言getw()函数:从流中取一整数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/523",
+        "title" : "26.C语言perror()函数:输出系统错误信息"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/524",
+        "title" : "27.C语言printf()函数:产生格式化输出的函数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/525",
+        "title" : "28.C语言putc()函数:输出一字符到指定流中 "
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/526",
+        "title" : "29.C语言putchar()函数:在stdout上输出字符"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/527",
+        "title" : "30.C语言puts()函数:把一个字符串写入到标准输出 stdout"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/528",
+        "title" : "31.C语言putw()函数:把一字符或字送到流中"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/529",
+        "title" : "32.C语言remove()函数:删除一个文件"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/530",
+        "title" : "33.C语言rename()函数:重命名文件"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/531",
+        "title" : "34.C语言rewind()函数:将文件指针重新指向一个流的开头"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/532",
+        "title" : "35.C语言ungetc()函数:把一个字符退回到输入流中"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/533",
+        "title" : "36.C语言ungetch()函数:把一个字符退回到键盘缓冲区中 "
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/534",
+        "title" : "37.C语言tmpfile()函数:以二进制方式打开暂存文件"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/535",
+        "title" : "38.C语言tmpnam()函数:创建一个唯一的文件名"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/536",
+        "title" : "39.C语言scanf()函数:执行格式化输入"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/537",
+        "title" : "40.C语言setbuf()函数:把缓冲区与流相联"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/538",
+        "title" : "41.C语言setvbuf()函数:把缓冲区与流相关"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/539",
+        "title" : "42.C语言sprintf()函数:格式化输出到字符串中"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/540",
+        "title" : "43.C语言sscanf()函数:执行从字符串中的格式化输入"
+      }
+    ]
+  },
+  {
+    "title" : "<stdlib.h>头文件",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/541",
+        "title" : "1.C语言abort()函数:写一个终止信息到stderr"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/542",
+        "title" : "2.C语言atexit()函数:用于注册终止"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/543",
+        "title" : "3.C语言atof()函数:将字符串转换为浮点值"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/544",
+        "title" : "4.C语言atoi()函数:将字符串转换成整型数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/545",
+        "title" : "5.C语言atol()函数:将字符串转换成长整型数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/546",
+        "title" : "6.C语言bsearch()函数:用于二分法搜索"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/547",
+        "title" : "7.C语言calloc()函数:用于分配堆内存"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/548",
+        "title" : "8.C语言div()函数:用于两个整数相除"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/549",
+        "title" : "9.C语言ecvt()函数:把浮点数转换为字符串"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/550",
+        "title" : "10.C语言fcvt()函数:将浮点数转换为字符串"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/551",
+        "title" : "11.C语言exit()函数:用于正常终止程序"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/552",
+        "title" : "12.C语言gcvt()函数:把浮点数转换为字符串"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/553",
+        "title" : "13.C语言free()函数:用于释放已分配的内存块"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/554",
+        "title" : "14.C语言getenv()函数:用于获取当前环境中的字符串"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/555",
+        "title" : "15.C语言itoa()函数:用于把整数转换成字符串"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/556",
+        "title" : "16.C语言ldiv()函数:用于两个长整型数相除"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/557",
+        "title" : "17.C语言lfind()函数:用于在给定的区域内从头到尾进行线性搜索"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/558",
+        "title" : "18.C语言lsearch()函数:用于在给定的区域内从头到尾进行线性搜索"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/559",
+        "title" : "19.C语言realloc()函数:用于重新分配指定大小的堆内存空间"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/560",
+        "title" : "20.C语言malloc()函数:用于分配指定大小的堆内存"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/561",
+        "title" : "21.C语言putenv()函数:用于改变或增加环境变量的内容"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/562",
+        "title" : "22.C语言qsort()函数:用于对记录从小到大快速排序"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/563",
+        "title" : "23.rand():用于生成随机数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/564",
+        "title" : "24.C语言srand()函数:初始化随机数的发生器"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/565",
+        "title" : "25.strtod():将字符串转换为浮点数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/566",
+        "title" : "26.C语言strtod()函数:将字符串转换为浮点数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/567",
+        "title" : "27.C语言strtol()函数:将字符串换成长整型数"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/568",
+        "title" : "28.C语言swab()函数:从源和目标区域交换字节"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/569",
+        "title" : "29.C语言system()函数:发出一个DOS命令"
+      }
+    ]
+  },
+  {
+    "title" : "<signal.h>头文件",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/570",
+        "title" : "1.C语言raise()函数:向正在执行的程序发送一个信号"
+      }
+    ]
+  },
+  {
+    "title" : "<string.h>头文件",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/579",
+        "title" : "1.C语言strcpy()函数:拷贝一个字符串到另一个字符串数组中"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/580",
+        "title" : "2.C语言strcat()函数:将一个字符串拼接在目标字符串的后面"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/581",
+        "title" : "3.C语言strcmp()函数:比较两个字符串的大小"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/582",
+        "title" : "4.C语言strchr()函数:查找字符串中第一个出现的指定字符的位置"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/583",
+        "title" : "5.C语言strcmpi()函数:比较两个字符串的大小"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/584",
+        "title" : "6.C语言strcspn()函数:查找连续有几个字符都不属于字符串str2内的字符"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/585",
+        "title" : "7.C语言strspn()函数:计算字符串str1中连续有几个字符都属于字符串str2"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/586",
+        "title" : "8.C语言strdup()函数:将字符串复制到新建立的空间"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/587",
+        "title" : "9.C语言stricmp()函数:比较两个字符串大小"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/588",
+        "title" : "10.C语言strlen()函数:计算字符串长度"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/589",
+        "title" : "11.C语言strlwr()函数:将字符串中的大写字母全部转换成小写形式"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/590",
+        "title" : "12.C语言strncat()函数:在字符串尾部追加"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/591",
+        "title" : "13.C语言strncmp()函数:对指定字符串数量的两个字符串进行比较"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/592",
+        "title" : "14.C语言strnicmp()函数:对指定长度的两个字符串进行比较"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/593",
+        "title" : "15.C语言strncpy()函数:将指定数量的源字符串拼接在目标字符串的后面"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/594",
+        "title" : "16.C语言strpbrk()函数:比较字符串str1和str2中是否有相同的字符"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/595",
+        "title" : "17.C语言strrev()函数:将字符串中的字符全部颠倒顺序"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/596",
+        "title" : "18.C语言strset()函数:将一个字符串中的所有字符都设为指定字符"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/597",
+        "title" : "19.C语言strstr()函数:在一个字符串中查找另一个字符串首次出现的位置"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/598",
+        "title" : "20.C语言strtok()函数:用指定的分隔符分解字符串"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/599",
+        "title" : "21.C语言strupr()函数:将字符串中的小写字母全部转换成大写形式"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/600",
+        "title" : "22.C语言strnset()函数:指定字符串的前几个字符都设为指定字符"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/601",
+        "title" : "23.C语言strrchr()函数:查找字符串中最后一次出现字符c的位置"
+      }
+    ]
+  },
+  {
+    "title" : "<time.h>头文件",
+    "array" : [
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/571",
+        "title" : "1.C语言asctime()函数:将给定的日期和时间转换成ASCII码"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/572",
+        "title" : "2.C语言clock()函数:确定处理器时间"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/573",
+        "title" : "3.C语言ctime()函数:把日期和时间转换为字符串"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/574",
+        "title" : "4.C语言time()函数:获取系统时间"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/575",
+        "title" : "5.C语言difftime()函数:计算两个时刻之间的时间差"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/576",
+        "title" : "6.C语言gmtime()函数:把clock中的时间转换为格林尼治标准时间"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/577",
+        "title" : "7.C语言localtime()函数:把日期和时间转变为结构体tm"
+      },
+      {
+        "url" : "https:\/\/www.dotcpp.com\/course\/578",
+        "title" : "8.C语言tzset()函数:对UNIX操作系统的时间兼容性"
+      }
+    ]
+  }
+]
+
